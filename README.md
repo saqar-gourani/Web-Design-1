@@ -14,8 +14,9 @@ This is a simple **HTML & CSS** website project I built while learning the basic
 ## 🎯 Purpose | هدف
 
 This project is created **just for practice & learning purposes**.  
-این پروژه صرفا برای **تمرین و یادگیری** ساخته شده و حالت آموزشی دارد. 
-(/https://saqar-gourani.github.io/Web-Design-1)[مشاهده سایت]
+این پروژه صرفا برای **تمرین و یادگیری** ساخته شده و حالت آموزشی دارد. نسخه آنلاین:
+
+https://saqar-gourani.github.io/Web-Design-1
 
 ---
 
