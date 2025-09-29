@@ -14,8 +14,7 @@ This is a simple **HTML & CSS** website project I built while learning the basic
 
 ## 🚀 نحوه مشاهده پروژه
 می‌توانید نسخه آنلاین این پروژه را از لینک زیر ببینید:  
-👉 [مشاهده وبسایت](https://YourUsername.github.io/my-portfolio/)
----
+https://saqar-gourani.github.io/Web-Design-1/
 ## 🎯 Purpose | هدف
 
 This project is created **just for practice & learning purposes**.  
